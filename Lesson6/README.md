@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 6, 2017
 
 ### Student Name:  
-(First and Last Name)
+Haley Palmer
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment required us to make an online photo gallery.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://hep15.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. In this assignment, I learned that in order to create a new element node using the createElement() method of the Document object, you use document.createElement("element").
+2. I also learned that you can attach nodes to each other. To do this, you specify the node to be attached and the node to attach it to.
+3. Finally, I learned that you can clone nodes using a true or false boolean.
